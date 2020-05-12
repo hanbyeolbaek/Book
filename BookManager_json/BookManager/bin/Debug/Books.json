@@ -1,0 +1,16 @@
+{
+  "books": {
+    "book": [
+      {
+        "isbn": "01",
+        "name": "고양이",
+        "publisher": "야옹이들",
+        "page": 3000,
+        "borrowedAt": "0001년 1월 1일 월요일",
+        "isBorrowed": false,
+        "userId": 0,
+        "userName": ""
+      }
+    ]
+  }
+}
